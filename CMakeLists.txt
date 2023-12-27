@@ -6,7 +6,7 @@ cmake_minimum_required(VERSION 3.0)
 
 project (tfs) 
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 18)
 
 #  Debug or Release
 set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -rdynamic")
